@@ -53,3 +53,19 @@ URL do curso -> [Pacman com Python e Pygame Cenário e Ator](https://cursos.alur
 
 ### 02 - Desenhando o Pac-Man
 * Criar uma classe para o desenho do Pacman.
+
+***
+
+## 03 - Etapas do Jogo
+* O funcionamento do laço do jogo, ou loop do jogo.
+* A movimentação do personagem.
+* A usar coordenadas para o labirinto.
+
+### 01 - Loop do Jogo
+* Como funciona o FPS no pygame.
+
+### 02 - Animação do Pacman
+* Realizando a movimentação do Pacman.
+
+### 03 - Trabalhando com Coordenadas
+* Definir as coordenadas do Pacman e sua posição.
