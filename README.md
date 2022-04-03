@@ -56,7 +56,7 @@ URL do curso -> [Pacman com Python e Pygame Cenário e Ator](https://cursos.alur
 
 ***
 
-## 03 - Etapas do Jogo
+## 03 - Etapas do Jogo &#x1F516;
 * O funcionamento do laço do jogo, ou loop do jogo.
 * A movimentação do personagem.
 * A usar coordenadas para o labirinto.
@@ -69,3 +69,19 @@ URL do curso -> [Pacman com Python e Pygame Cenário e Ator](https://cursos.alur
 
 ### 03 - Trabalhando com Coordenadas
 * Definir as coordenadas do Pacman e sua posição.
+
+***
+
+## 04 - Eventos e Movimentação &#x1F516;
+* Os eventos no Pygame.
+* A movimentação pelas teclas.
+* A movimentação pelo mouse.
+
+### 01 - Eventos no Pygame
+* Como capturar eventos no pygame.
+
+### 02 - Movimentação com Teclas
+* Movimentando o Pacman com o teclado.
+
+### 03 - Movimentação no Mouse
+* Movimentando o Pacman com o mouse.
