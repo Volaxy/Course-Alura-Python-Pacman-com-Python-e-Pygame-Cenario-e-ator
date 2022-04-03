@@ -19,6 +19,8 @@ URL do curso -> [Pacman com Python e Pygame Cenário e Ator](https://cursos.alur
 ## Atalhos &#x2328;
 *
 
+***
+
 ## 01 - Primeiros Passos com Pygame &#x1F516;
 * O ambiente e versões do curso.
 * O sistema de coordenadas.
@@ -39,3 +41,15 @@ URL do curso -> [Pacman com Python e Pygame Cenário e Ator](https://cursos.alur
 
 ### 04 - Primeira Movimentação
 * Criar constantes para a velocidade da bolinha.
+
+***
+
+## 02 - Formas Geométricas com o Módulo Draw &#x1F516;
+* Formas geométricas.
+* Como desenhar o Pacman.
+
+### 01 - Formas Geométricas
+* Métodos para desenhar formas geométricas.
+
+### 02 - Desenhando o Pac-Man
+* Criar uma classe para o desenho do Pacman.
